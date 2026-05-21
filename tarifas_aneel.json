@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-21T13:25:26.309778+00:00",
+  "gerado_em": "2026-05-21T14:15:54.863351+00:00",
   "fonte": "Dashboard Tarifa Branca ANEEL",
   "url_fonte": "https://app.powerbi.com/view?r=eyJrIjoiMTEzZDgyMzctNGQzZS00MTVkLTg3M2UtOGMwNjBjMzM2MGVmIiwidCI6IjQwZDZmOWI4LWVjYTctNDZhMi05MmQ0LWVhNGU5YzAxNzBlMSIsImMiOjR9",
   "distribuidoras": {
@@ -47,6 +47,28 @@
         "nota": "Horários visíveis nos screenshots de debug"
       }
     },
+    "CERCI": {
+      "sigla": "CERCI",
+      "nome_comercial": "CERCI",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "1464/2026",
+      "resolucao_postos": "3027/2022",
+      "convencional_b": {
+        "tarifa": null
+      },
+      "branca_b": {
+        "foraponta": 1.19,
+        "intermediario": 1.501,
+        "ponta": 2.296
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
     "CERMC": {
       "sigla": "CERMC",
       "nome_comercial": "CERMC",
@@ -60,6 +82,94 @@
         "foraponta": 0.748,
         "intermediario": 1.227,
         "ponta": 1.706
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "CERRP": {
+      "sigla": "CERRP",
+      "nome_comercial": "CERRP",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3458/2025",
+      "resolucao_postos": "3329/2024",
+      "convencional_b": {
+        "tarifa": 0.735
+      },
+      "branca_b": {
+        "foraponta": 0.572,
+        "intermediario": 0.987,
+        "ponta": 1.402
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "CPFL Paulista": {
+      "sigla": "CPFL PAULIST",
+      "nome_comercial": "CPFL Paulista",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3579/2026",
+      "resolucao_postos": "3183/2023",
+      "convencional_b": {
+        "tarifa": 0.739
+      },
+      "branca_b": {
+        "foraponta": 0.625,
+        "intermediario": 0.883,
+        "ponta": 1.299
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "CPFL Piratininga": {
+      "sigla": "CPFL PIRATIN",
+      "nome_comercial": "CPFL Piratininga",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3543/2025",
+      "resolucao_postos": "3277/2023",
+      "convencional_b": {
+        "tarifa": 0.74
+      },
+      "branca_b": {
+        "foraponta": 0.621,
+        "intermediario": 0.844,
+        "ponta": 1.257
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "CPFL Santa Cruz (agrupada)": {
+      "sigla": "CPFL SANTA C",
+      "nome_comercial": "CPFL Santa Cruz (agrupada)",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3580/2026",
+      "resolucao_postos": "2837/2021",
+      "convencional_b": {
+        "tarifa": 0.813
+      },
+      "branca_b": {
+        "foraponta": 0.661,
+        "intermediario": 1.033,
+        "ponta": 1.544
       },
       "horarios_branca": {
         "ponta": null,
@@ -192,6 +302,226 @@
         "foraponta": 0.709,
         "intermediario": 1.096,
         "ponta": 1.662
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cemirim": {
+      "sigla": "CEMIRIM",
+      "nome_comercial": "Cemirim",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3455/2025",
+      "resolucao_postos": "2553/2019",
+      "convencional_b": {
+        "tarifa": 0.696
+      },
+      "branca_b": {
+        "foraponta": 0.589,
+        "intermediario": 0.893,
+        "ponta": 2.553
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Ceprag": {
+      "sigla": "CEPRAG",
+      "nome_comercial": "Ceprag",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3563/2025",
+      "resolucao_postos": "2362/2017",
+      "convencional_b": {
+        "tarifa": 0.864
+      },
+      "branca_b": {
+        "foraponta": 0.646,
+        "intermediario": 1.158,
+        "ponta": 2.362
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Ceral Anitápolis": {
+      "sigla": "CERAL ANITÁP",
+      "nome_comercial": "Ceral Anitápolis",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3550/2025",
+      "resolucao_postos": "2802/2020",
+      "convencional_b": {
+        "tarifa": 1.002
+      },
+      "branca_b": {
+        "foraponta": 0.725,
+        "intermediario": 1.376,
+        "ponta": 2.027
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Ceral Araruama": {
+      "sigla": "CERAL ARARUA",
+      "nome_comercial": "Ceral Araruama",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "1463/2026",
+      "resolucao_postos": "3028/2022",
+      "convencional_b": {
+        "tarifa": null
+      },
+      "branca_b": {
+        "foraponta": 0.904,
+        "intermediario": 1.206,
+        "ponta": 1.98
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Ceral DIS": {
+      "sigla": "CERAL DIS",
+      "nome_comercial": "Ceral DIS",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3493/2025",
+      "resolucao_postos": "3366/2024",
+      "convencional_b": {
+        "tarifa": 0.636
+      },
+      "branca_b": {
+        "foraponta": 0.491,
+        "intermediario": 0.861,
+        "ponta": 1.231
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Ceraça": {
+      "sigla": "CERAÇA",
+      "nome_comercial": "Ceraça",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3537/2025",
+      "resolucao_postos": "2148/2016",
+      "convencional_b": {
+        "tarifa": 0.795
+      },
+      "branca_b": {
+        "foraponta": 0.614,
+        "intermediario": 1.04,
+        "ponta": 2.148
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cerbranorte": {
+      "sigla": "CERBRANORTE",
+      "nome_comercial": "Cerbranorte",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3538/2025",
+      "resolucao_postos": "2147/2016",
+      "convencional_b": {
+        "tarifa": 0.631
+      },
+      "branca_b": {
+        "foraponta": 0.525,
+        "intermediario": 0.775,
+        "ponta": 2.147
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cercos": {
+      "sigla": "CERCOS",
+      "nome_comercial": "Cercos",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3456/2025",
+      "resolucao_postos": "3331/2024",
+      "convencional_b": {
+        "tarifa": 1.044
+      },
+      "branca_b": {
+        "foraponta": 0.811,
+        "intermediario": 1.57,
+        "ponta": 2.328
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cerej": {
+      "sigla": "CEREJ",
+      "nome_comercial": "Cerej",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3532/2025",
+      "resolucao_postos": "2144/2016",
+      "convencional_b": {
+        "tarifa": 0.962
+      },
+      "branca_b": {
+        "foraponta": 0.712,
+        "intermediario": 1.299,
+        "ponta": 2.144
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Ceres": {
+      "sigla": "CERES",
+      "nome_comercial": "Ceres",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "1454/2026",
+      "resolucao_postos": "2366/2018",
+      "convencional_b": {
+        "tarifa": 1.569
+      },
+      "branca_b": {
+        "foraponta": 1.231,
+        "intermediario": 2.366,
+        "ponta": 2.433
       },
       "horarios_branca": {
         "ponta": null,
@@ -377,6 +707,226 @@
         "nota": "Horários visíveis nos screenshots de debug"
       }
     },
+    "Cermissões": {
+      "sigla": "CERMISSÕES",
+      "nome_comercial": "Cermissões",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3495/2025",
+      "resolucao_postos": "2278/2017",
+      "convencional_b": {
+        "tarifa": 0.714
+      },
+      "branca_b": {
+        "foraponta": 0.568,
+        "intermediario": 0.925,
+        "ponta": 2.278
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cermoful": {
+      "sigla": "CERMOFUL",
+      "nome_comercial": "Cermoful",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3522/2025",
+      "resolucao_postos": "3109/2022",
+      "convencional_b": {
+        "tarifa": 0.716
+      },
+      "branca_b": {
+        "foraponta": 0.509,
+        "intermediario": 0.994,
+        "ponta": 1.479
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cernhe": {
+      "sigla": "CERNHE",
+      "nome_comercial": "Cernhe",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3503/2025",
+      "resolucao_postos": "3361/2024",
+      "convencional_b": {
+        "tarifa": 0.766
+      },
+      "branca_b": {
+        "foraponta": 0.624,
+        "intermediario": 1.163,
+        "ponta": 1.702
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cerpalo": {
+      "sigla": "CERPALO",
+      "nome_comercial": "Cerpalo",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3523/2025",
+      "resolucao_postos": "2153/2017",
+      "convencional_b": {
+        "tarifa": 1.015
+      },
+      "branca_b": {
+        "foraponta": 0.764,
+        "intermediario": 1.353,
+        "ponta": 2.153
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cerpro": {
+      "sigla": "CERPRO",
+      "nome_comercial": "Cerpro",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3457/2025",
+      "resolucao_postos": "3330/2024",
+      "convencional_b": {
+        "tarifa": 0.794
+      },
+      "branca_b": {
+        "foraponta": 0.602,
+        "intermediario": 1.091,
+        "ponta": 1.58
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cersad": {
+      "sigla": "CERSAD",
+      "nome_comercial": "Cersad",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3524/2025",
+      "resolucao_postos": "2488/2018",
+      "convencional_b": {
+        "tarifa": 0.661
+      },
+      "branca_b": {
+        "foraponta": 0.493,
+        "intermediario": 0.888,
+        "ponta": 2.488
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cersul": {
+      "sigla": "CERSUL",
+      "nome_comercial": "Cersul",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3525/2025",
+      "resolucao_postos": "2141/2016",
+      "convencional_b": {
+        "tarifa": 0.581
+      },
+      "branca_b": {
+        "foraponta": 0.456,
+        "intermediario": 0.749,
+        "ponta": 2.141
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Certaja": {
+      "sigla": "CERTAJA",
+      "nome_comercial": "Certaja",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3496/2025",
+      "resolucao_postos": "2246/2017",
+      "convencional_b": {
+        "tarifa": 0.633
+      },
+      "branca_b": {
+        "foraponta": 0.501,
+        "intermediario": 0.773,
+        "ponta": 2.246
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Certel": {
+      "sigla": "CERTEL",
+      "nome_comercial": "Certel",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3504/2025",
+      "resolucao_postos": "3081/2022",
+      "convencional_b": {
+        "tarifa": 0.736
+      },
+      "branca_b": {
+        "foraponta": 0.607,
+        "intermediario": 1.029,
+        "ponta": 1.452
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Certhil": {
+      "sigla": "CERTHIL",
+      "nome_comercial": "Certhil",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3497/2025",
+      "resolucao_postos": "3085/2022",
+      "convencional_b": {
+        "tarifa": 0.606
+      },
+      "branca_b": {
+        "foraponta": 0.503,
+        "intermediario": 0.709,
+        "ponta": 0.915
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
     "Certrel": {
       "sigla": "CERTREL",
       "nome_comercial": "Certrel",
@@ -447,15 +997,15 @@
       "sigla": "CHESP",
       "nome_comercial": "Chesp",
       "atualizado": "2026-05-21",
-      "resolucao_tarifas": "3545/2025",
-      "resolucao_postos": "2970/2021",
+      "resolucao_tarifas": "3553/2025",
+      "resolucao_postos": "2164/2016",
       "convencional_b": {
         "tarifa": 0.82
       },
       "branca_b": {
         "foraponta": 0.686,
         "intermediario": 1.135,
-        "ponta": 1.743
+        "ponta": 2.164
       },
       "horarios_branca": {
         "ponta": null,
@@ -469,15 +1019,15 @@
       "sigla": "COCEL",
       "nome_comercial": "Cocel",
       "atualizado": "2026-05-21",
-      "resolucao_tarifas": "3476/2025",
-      "resolucao_postos": "2887/2021",
+      "resolucao_tarifas": "3553/2025",
+      "resolucao_postos": "2164/2016",
       "convencional_b": {
-        "tarifa": 0.642
+        "tarifa": 0.767
       },
       "branca_b": {
         "foraponta": 0.54,
-        "intermediario": 0.767,
-        "ponta": 1.15
+        "intermediario": 0.82,
+        "ponta": 2.164
       },
       "horarios_branca": {
         "ponta": null,
@@ -566,6 +1116,182 @@
         "foraponta": 0.439,
         "intermediario": 0.747,
         "ponta": 2.465
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cooperluz": {
+      "sigla": "COOPERLUZ",
+      "nome_comercial": "Cooperluz",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3498/2025",
+      "resolucao_postos": "2279/2017",
+      "convencional_b": {
+        "tarifa": 0.477
+      },
+      "branca_b": {
+        "foraponta": 0.446,
+        "intermediario": 0.523,
+        "ponta": 2.279
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Coopermila": {
+      "sigla": "COOPERMILA",
+      "nome_comercial": "Coopermila",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3535/2025",
+      "resolucao_postos": "2150/2016",
+      "convencional_b": {
+        "tarifa": 0.636
+      },
+      "branca_b": {
+        "foraponta": 0.526,
+        "intermediario": 0.785,
+        "ponta": 2.15
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Coopernorte": {
+      "sigla": "COOPERNORTE",
+      "nome_comercial": "Coopernorte",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3561/2025",
+      "resolucao_postos": "2516/2019",
+      "convencional_b": {
+        "tarifa": 1.371
+      },
+      "branca_b": {
+        "foraponta": 1.073,
+        "intermediario": 2.045,
+        "ponta": 2.516
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Coopersul": {
+      "sigla": "COOPERSUL",
+      "nome_comercial": "Coopersul",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3562/2025",
+      "resolucao_postos": "2515/2019",
+      "convencional_b": {
+        "tarifa": 0.738
+      },
+      "branca_b": {
+        "foraponta": 0.604,
+        "intermediario": 1.122,
+        "ponta": 2.515
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Cooperzem": {
+      "sigla": "COOPERZEM",
+      "nome_comercial": "Cooperzem",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3529/2025",
+      "resolucao_postos": "2489/2018",
+      "convencional_b": {
+        "tarifa": 0.794
+      },
+      "branca_b": {
+        "foraponta": 0.618,
+        "intermediario": 1.031,
+        "ponta": 2.489
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Coorsel": {
+      "sigla": "COORSEL",
+      "nome_comercial": "Coorsel",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3530/2025",
+      "resolucao_postos": "2145/2016",
+      "convencional_b": {
+        "tarifa": 0.747
+      },
+      "branca_b": {
+        "foraponta": 0.578,
+        "intermediario": 0.975,
+        "ponta": 2.145
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Copel-DIS": {
+      "sigla": "COPEL-DIS",
+      "nome_comercial": "Copel-DIS",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3472/2025",
+      "resolucao_postos": "2886/2021",
+      "convencional_b": {
+        "tarifa": 0.642
+      },
+      "branca_b": {
+        "foraponta": 0.54,
+        "intermediario": 0.767,
+        "ponta": 1.15
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Coprel": {
+      "sigla": "COPREL",
+      "nome_comercial": "Coprel",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3499/2025",
+      "resolucao_postos": "2280/2017",
+      "convencional_b": {
+        "tarifa": 0.604
+      },
+      "branca_b": {
+        "foraponta": 0.55,
+        "intermediario": 0.802,
+        "ponta": 2.28
       },
       "horarios_branca": {
         "ponta": null,
@@ -751,6 +1477,28 @@
         "nota": "Horários visíveis nos screenshots de debug"
       }
     },
+    "ELFSM": {
+      "sigla": "ELFSM",
+      "nome_comercial": "ELFSM",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3519/2025",
+      "resolucao_postos": "2933/2021",
+      "convencional_b": {
+        "tarifa": 0.745
+      },
+      "branca_b": {
+        "foraponta": 0.636,
+        "intermediario": 0.958,
+        "ponta": 1.455
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
     "ESS (agrupada)": {
       "sigla": "ESS (AGRUPAD",
       "nome_comercial": "ESS (agrupada)",
@@ -786,6 +1534,226 @@
         "foraponta": 0.379,
         "intermediario": 0.651,
         "ponta": 2.183
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Eletrocar": {
+      "sigla": "ELETROCAR",
+      "nome_comercial": "Eletrocar",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3487/2025",
+      "resolucao_postos": "3070/2022",
+      "convencional_b": {
+        "tarifa": 0.685
+      },
+      "branca_b": {
+        "foraponta": 0.485,
+        "intermediario": 0.905,
+        "ponta": 1.584
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Enel CE": {
+      "sigla": "ENEL CE",
+      "nome_comercial": "Enel CE",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3574/2026",
+      "resolucao_postos": "3185/2023",
+      "convencional_b": {
+        "tarifa": 0.75
+      },
+      "branca_b": {
+        "foraponta": 0.63,
+        "intermediario": 1.041,
+        "ponta": 1.615
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Enel RJ": {
+      "sigla": "ENEL RJ",
+      "nome_comercial": "Enel RJ",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3570/2026",
+      "resolucao_postos": "3177/2023",
+      "convencional_b": {
+        "tarifa": 1.061
+      },
+      "branca_b": {
+        "foraponta": 0.893,
+        "intermediario": 1.437,
+        "ponta": 2.159
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Enel SP": {
+      "sigla": "ENEL SP",
+      "nome_comercial": "Enel SP",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3477/2025",
+      "resolucao_postos": "3215/2023",
+      "convencional_b": {
+        "tarifa": 0.725
+      },
+      "branca_b": {
+        "foraponta": 0.61,
+        "intermediario": 0.913,
+        "ponta": 1.382
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Energisa AC": {
+      "sigla": "ENERGISA AC",
+      "nome_comercial": "Energisa AC",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3556/2025",
+      "resolucao_postos": "3300/2023",
+      "convencional_b": {
+        "tarifa": 0.874
+      },
+      "branca_b": {
+        "foraponta": 0.668,
+        "intermediario": 1.328,
+        "ponta": 2.136
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Energisa MS": {
+      "sigla": "ENERGISA MS",
+      "nome_comercial": "Energisa MS",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3582/2026",
+      "resolucao_postos": "3181/2023",
+      "convencional_b": {
+        "tarifa": 0.987
+      },
+      "branca_b": {
+        "foraponta": 0.775,
+        "intermediario": 1.2,
+        "ponta": 1.809
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Energisa MT": {
+      "sigla": "ENERGISA MT",
+      "nome_comercial": "Energisa MT",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3581/2026",
+      "resolucao_postos": "3182/2023",
+      "convencional_b": {
+        "tarifa": 0.899
+      },
+      "branca_b": {
+        "foraponta": 0.734,
+        "intermediario": 1.179,
+        "ponta": 1.828
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Energisa Minas Rio": {
+      "sigla": "ENERGISA MIN",
+      "nome_comercial": "Energisa Minas Rio",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3471/2025",
+      "resolucao_postos": "3210/2023",
+      "convencional_b": {
+        "tarifa": 0.817
+      },
+      "branca_b": {
+        "foraponta": 0.672,
+        "intermediario": 0.96,
+        "ponta": 1.452
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Energisa PB": {
+      "sigla": "ENERGISA PB",
+      "nome_comercial": "Energisa PB",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3518/2025",
+      "resolucao_postos": "2929/2021",
+      "convencional_b": {
+        "tarifa": 0.676
+      },
+      "branca_b": {
+        "foraponta": 0.57,
+        "intermediario": 0.948,
+        "ponta": 1.478
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Energisa RO": {
+      "sigla": "ENERGISA RO",
+      "nome_comercial": "Energisa RO",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3560/2025",
+      "resolucao_postos": "3301/2023",
+      "convencional_b": {
+        "tarifa": 0.841
+      },
+      "branca_b": {
+        "foraponta": 0.681,
+        "intermediario": 1.196,
+        "ponta": 1.896
       },
       "horarios_branca": {
         "ponta": null,
@@ -962,6 +1930,116 @@
         "foraponta": 0.773,
         "intermediario": 1.337,
         "ponta": 2.08
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Hidropan": {
+      "sigla": "HIDROPAN",
+      "nome_comercial": "Hidropan",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3488/2025",
+      "resolucao_postos": "3071/2022",
+      "convencional_b": {
+        "tarifa": 0.605
+      },
+      "branca_b": {
+        "foraponta": 0.431,
+        "intermediario": 0.755,
+        "ponta": 1.275
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Light": {
+      "sigla": "LIGHT",
+      "nome_comercial": "Light",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3571/2026",
+      "resolucao_postos": "3014/2022",
+      "convencional_b": {
+        "tarifa": 0.881
+      },
+      "branca_b": {
+        "foraponta": 0.775,
+        "intermediario": 1.119,
+        "ponta": 1.614
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "MuxEnergia": {
+      "sigla": "MUXENERGIA",
+      "nome_comercial": "MuxEnergia",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3489/2025",
+      "resolucao_postos": "3072/2022",
+      "convencional_b": {
+        "tarifa": 0.702
+      },
+      "branca_b": {
+        "foraponta": 0.497,
+        "intermediario": 0.911,
+        "ponta": 1.582
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Neoenergia Brasília": {
+      "sigla": "NEOENERGIA B",
+      "nome_comercial": "Neoenergia Brasília",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3542/2025",
+      "resolucao_postos": "2965/2021",
+      "convencional_b": {
+        "tarifa": 0.827
+      },
+      "branca_b": {
+        "foraponta": 0.721,
+        "intermediario": 0.925,
+        "ponta": 1.354
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
+    "Neoenergia Coelba": {
+      "sigla": "NEOENERGIA C",
+      "nome_comercial": "Neoenergia Coelba",
+      "atualizado": "2026-05-21",
+      "resolucao_tarifas": "3578/2026",
+      "resolucao_postos": "3186/2023",
+      "convencional_b": {
+        "tarifa": 0.878
+      },
+      "branca_b": {
+        "foraponta": 0.679,
+        "intermediario": 1.145,
+        "ponta": 1.801
       },
       "horarios_branca": {
         "ponta": null,
