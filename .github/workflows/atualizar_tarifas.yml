@@ -28,7 +28,7 @@ jobs:
         run: |
           pip install playwright
           playwright install chromium
-          playwright install-deps chromium
+          sudo playwright install-deps chromium
 
       - name: ⚡ Extrai tarifas do Dashboard ANEEL
         run: |
