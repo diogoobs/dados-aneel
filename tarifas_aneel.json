@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-05-21T14:15:54.863351+00:00",
+  "gerado_em": "2026-05-21T14:56:32.511551+00:00",
   "fonte": "Dashboard Tarifa Branca ANEEL",
   "url_fonte": "https://app.powerbi.com/view?r=eyJrIjoiMTEzZDgyMzctNGQzZS00MTVkLTg3M2UtOGMwNjBjMzM2MGVmIiwidCI6IjQwZDZmOWI4LWVjYTctNDZhMi05MmQ0LWVhNGU5YzAxNzBlMSIsImMiOjR9",
   "distribuidoras": {
@@ -469,37 +469,15 @@
       "sigla": "CERCOS",
       "nome_comercial": "Cercos",
       "atualizado": "2026-05-21",
-      "resolucao_tarifas": "3456/2025",
-      "resolucao_postos": "3331/2024",
+      "resolucao_tarifas": "3538/2025",
+      "resolucao_postos": "2147/2016",
       "convencional_b": {
-        "tarifa": 1.044
+        "tarifa": 0.811
       },
       "branca_b": {
-        "foraponta": 0.811,
+        "foraponta": 0.631,
         "intermediario": 1.57,
         "ponta": 2.328
-      },
-      "horarios_branca": {
-        "ponta": null,
-        "intermediario": null,
-        "foraponta": null,
-        "fonte": "Dashboard Tarifa Branca ANEEL",
-        "nota": "Horários visíveis nos screenshots de debug"
-      }
-    },
-    "Cerej": {
-      "sigla": "CEREJ",
-      "nome_comercial": "Cerej",
-      "atualizado": "2026-05-21",
-      "resolucao_tarifas": "3532/2025",
-      "resolucao_postos": "2144/2016",
-      "convencional_b": {
-        "tarifa": 0.962
-      },
-      "branca_b": {
-        "foraponta": 0.712,
-        "intermediario": 1.299,
-        "ponta": 2.144
       },
       "horarios_branca": {
         "ponta": null,
@@ -909,8 +887,8 @@
       "sigla": "CERTHIL",
       "nome_comercial": "Certhil",
       "atualizado": "2026-05-21",
-      "resolucao_tarifas": "3497/2025",
-      "resolucao_postos": "3085/2022",
+      "resolucao_tarifas": "3504/2025",
+      "resolucao_postos": "3081/2022",
       "convencional_b": {
         "tarifa": 0.606
       },
@@ -997,15 +975,15 @@
       "sigla": "CHESP",
       "nome_comercial": "Chesp",
       "atualizado": "2026-05-21",
-      "resolucao_tarifas": "3553/2025",
-      "resolucao_postos": "2164/2016",
+      "resolucao_tarifas": "3545/2025",
+      "resolucao_postos": "2970/2021",
       "convencional_b": {
         "tarifa": 0.82
       },
       "branca_b": {
         "foraponta": 0.686,
         "intermediario": 1.135,
-        "ponta": 2.164
+        "ponta": 1.743
       },
       "horarios_branca": {
         "ponta": null,
@@ -1019,15 +997,15 @@
       "sigla": "COCEL",
       "nome_comercial": "Cocel",
       "atualizado": "2026-05-21",
-      "resolucao_tarifas": "3553/2025",
-      "resolucao_postos": "2164/2016",
+      "resolucao_tarifas": "3476/2025",
+      "resolucao_postos": "2887/2021",
       "convencional_b": {
-        "tarifa": 0.767
+        "tarifa": 0.642
       },
       "branca_b": {
         "foraponta": 0.54,
-        "intermediario": 0.82,
-        "ponta": 2.164
+        "intermediario": 0.767,
+        "ponta": 1.15
       },
       "horarios_branca": {
         "ponta": null,
