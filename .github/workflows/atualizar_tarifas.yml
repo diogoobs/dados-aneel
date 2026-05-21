@@ -1,0 +1,76 @@
+name: 🔄 Atualizar Tarifas ANEEL
+
+on:
+  schedule:
+    # Todo domingo às 3h UTC (meia-noite em Brasília)
+    - cron: '0 3 * * 0'
+  workflow_dispatch:
+    # Permite rodar manualmente pelo GitHub Actions UI
+
+permissions:
+  contents: write   # necessário para fazer commit do JSON atualizado
+
+jobs:
+  atualizar-tarifas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 📥 Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configura Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Instala dependências
+        run: |
+          pip install playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: ⚡ Extrai tarifas do Dashboard ANEEL
+        run: |
+          python extrator_aneel.py \
+            --headless \
+            --output tarifas_aneel.json \
+            --debug-dir debug_screenshots
+        # O script abre o browser, navega pelo dashboard da ANEEL,
+        # extrai os valores de todas as distribuidoras e salva o JSON.
+
+      - name: 📸 Salva screenshots de debug
+        uses: actions/upload-artifact@v4
+        if: always()   # salva mesmo se o script falhar
+        with:
+          name: debug-screenshots-${{ github.run_id }}
+          path: debug_screenshots/*.png
+          retention-days: 14
+
+      - name: 📊 Exibe resumo do JSON gerado
+        run: |
+          echo "=== Conteúdo do tarifas_aneel.json ==="
+          cat tarifas_aneel.json | python3 -c "
+          import json, sys
+          d = json.load(sys.stdin)
+          print(f'Gerado em: {d[\"gerado_em\"]}')
+          print(f'Distribuidoras: {len(d[\"distribuidoras\"])}')
+          for nome, info in list(d[\"distribuidoras\"].items())[:5]:
+              fp = info.get(\"branca_b\",{}).get(\"foraponta\")
+              p  = info.get(\"branca_b\",{}).get(\"ponta\")
+              print(f'  {nome}: FP={fp} | P={p}')
+          "
+
+      - name: 💾 Commit e push do JSON atualizado
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add tarifas_aneel.json
+          # Só faz commit se houve mudança
+          if git diff --staged --quiet; then
+            echo "Sem mudanças nos dados — nenhum commit necessário."
+          else
+            git commit -m "chore: atualiza tarifas ANEEL $(date -u +'%Y-%m-%d')"
+            git push
+            echo "✅ JSON atualizado e publicado!"
+          fi
