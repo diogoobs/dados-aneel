@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-05-24T09:33:37.578853+00:00",
+  "gerado_em": "2026-05-31T10:33:08.147896+00:00",
   "fonte": "Dashboard Tarifa Branca ANEEL",
   "url_fonte": "https://app.powerbi.com/view?r=eyJrIjoiMTEzZDgyMzctNGQzZS00MTVkLTg3M2UtOGMwNjBjMzM2MGVmIiwidCI6IjQwZDZmOWI4LWVjYTctNDZhMi05MmQ0LWVhNGU5YzAxNzBlMSIsImMiOjR9",
   "distribuidoras": {
     "Amazonas Energia": {
       "sigla": "AMAZONAS ENE",
       "nome_comercial": "Amazonas Energia",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3454/2025",
       "resolucao_postos": "3333/2024",
       "convencional_b": {
@@ -28,7 +28,7 @@
     "CELETRO": {
       "sigla": "CELETRO",
       "nome_comercial": "CELETRO",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3492/2025",
       "resolucao_postos": null,
       "convencional_b": {
@@ -50,7 +50,7 @@
     "CERCI": {
       "sigla": "CERCI",
       "nome_comercial": "CERCI",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "1464/2026",
       "resolucao_postos": "3027/2022",
       "convencional_b": {
@@ -72,7 +72,7 @@
     "CERMC": {
       "sigla": "CERMC",
       "nome_comercial": "CERMC",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3552/2025",
       "resolucao_postos": "2801/2020",
       "convencional_b": {
@@ -94,7 +94,7 @@
     "CERRP": {
       "sigla": "CERRP",
       "nome_comercial": "CERRP",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3458/2025",
       "resolucao_postos": "3329/2024",
       "convencional_b": {
@@ -116,7 +116,7 @@
     "CPFL Paulista": {
       "sigla": "CPFL PAULIST",
       "nome_comercial": "CPFL Paulista",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3579/2026",
       "resolucao_postos": "3183/2023",
       "convencional_b": {
@@ -138,7 +138,7 @@
     "CPFL Piratininga": {
       "sigla": "CPFL PIRATIN",
       "nome_comercial": "CPFL Piratininga",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3543/2025",
       "resolucao_postos": "3277/2023",
       "convencional_b": {
@@ -160,7 +160,7 @@
     "CPFL Santa Cruz (agrupada)": {
       "sigla": "CPFL SANTA C",
       "nome_comercial": "CPFL Santa Cruz (agrupada)",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3580/2026",
       "resolucao_postos": "2837/2021",
       "convencional_b": {
@@ -182,7 +182,7 @@
     "Cedrap": {
       "sigla": "CEDRAP",
       "nome_comercial": "Cedrap",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3549/2025",
       "resolucao_postos": "2800/2020",
       "convencional_b": {
@@ -204,7 +204,7 @@
     "Cedri": {
       "sigla": "CEDRI",
       "nome_comercial": "Cedri",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3531/2025",
       "resolucao_postos": "2142/2016",
       "convencional_b": {
@@ -226,7 +226,7 @@
     "Cegero": {
       "sigla": "CEGERO",
       "nome_comercial": "Cegero",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3520/2025",
       "resolucao_postos": "2487/2018",
       "convencional_b": {
@@ -248,7 +248,7 @@
     "Cejama": {
       "sigla": "CEJAMA",
       "nome_comercial": "Cejama",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3536/2025",
       "resolucao_postos": "2149/2016",
       "convencional_b": {
@@ -270,7 +270,7 @@
     "Celesc-DIS": {
       "sigla": "CELESC-DIS",
       "nome_comercial": "Celesc-DIS",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3511/2025",
       "resolucao_postos": "2921/2021",
       "convencional_b": {
@@ -292,7 +292,7 @@
     "Cemig-D": {
       "sigla": "CEMIG-D",
       "nome_comercial": "Cemig-D",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3459/2025",
       "resolucao_postos": "3202/2023",
       "convencional_b": {
@@ -314,7 +314,7 @@
     "Cemirim": {
       "sigla": "CEMIRIM",
       "nome_comercial": "Cemirim",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3455/2025",
       "resolucao_postos": "2553/2019",
       "convencional_b": {
@@ -336,7 +336,7 @@
     "Ceprag": {
       "sigla": "CEPRAG",
       "nome_comercial": "Ceprag",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3563/2025",
       "resolucao_postos": "2362/2017",
       "convencional_b": {
@@ -358,7 +358,7 @@
     "Ceral Anitápolis": {
       "sigla": "CERAL ANITÁP",
       "nome_comercial": "Ceral Anitápolis",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3550/2025",
       "resolucao_postos": "2802/2020",
       "convencional_b": {
@@ -380,7 +380,7 @@
     "Ceral Araruama": {
       "sigla": "CERAL ARARUA",
       "nome_comercial": "Ceral Araruama",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "1463/2026",
       "resolucao_postos": "3028/2022",
       "convencional_b": {
@@ -402,7 +402,7 @@
     "Ceral DIS": {
       "sigla": "CERAL DIS",
       "nome_comercial": "Ceral DIS",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3493/2025",
       "resolucao_postos": "3366/2024",
       "convencional_b": {
@@ -424,7 +424,7 @@
     "Ceraça": {
       "sigla": "CERAÇA",
       "nome_comercial": "Ceraça",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3537/2025",
       "resolucao_postos": "2148/2016",
       "convencional_b": {
@@ -446,7 +446,7 @@
     "Cerbranorte": {
       "sigla": "CERBRANORTE",
       "nome_comercial": "Cerbranorte",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3538/2025",
       "resolucao_postos": "2147/2016",
       "convencional_b": {
@@ -468,7 +468,7 @@
     "Cercos": {
       "sigla": "CERCOS",
       "nome_comercial": "Cercos",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3456/2025",
       "resolucao_postos": "3331/2024",
       "convencional_b": {
@@ -490,7 +490,7 @@
     "Cerej": {
       "sigla": "CEREJ",
       "nome_comercial": "Cerej",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3532/2025",
       "resolucao_postos": "2144/2016",
       "convencional_b": {
@@ -512,7 +512,7 @@
     "Ceres": {
       "sigla": "CERES",
       "nome_comercial": "Ceres",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "1454/2026",
       "resolucao_postos": "2366/2018",
       "convencional_b": {
@@ -534,7 +534,7 @@
     "Cerfox": {
       "sigla": "CERFOX",
       "nome_comercial": "Cerfox",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3501/2025",
       "resolucao_postos": "3090/2022",
       "convencional_b": {
@@ -556,7 +556,7 @@
     "Cergal": {
       "sigla": "CERGAL",
       "nome_comercial": "Cergal",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3539/2025",
       "resolucao_postos": "2146/2016",
       "convencional_b": {
@@ -578,7 +578,7 @@
     "Cergapa": {
       "sigla": "CERGAPA",
       "nome_comercial": "Cergapa",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3521/2025",
       "resolucao_postos": "2325/2017",
       "convencional_b": {
@@ -600,7 +600,7 @@
     "Cergral": {
       "sigla": "CERGRAL",
       "nome_comercial": "Cergral",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3540/2025",
       "resolucao_postos": "2366/2018",
       "convencional_b": {
@@ -622,7 +622,7 @@
     "Ceriluz": {
       "sigla": "CERILUZ",
       "nome_comercial": "Ceriluz",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3494/2025",
       "resolucao_postos": "3077/2022",
       "convencional_b": {
@@ -644,7 +644,7 @@
     "Cerim": {
       "sigla": "CERIM",
       "nome_comercial": "Cerim",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3551/2025",
       "resolucao_postos": "2803/2020",
       "convencional_b": {
@@ -666,7 +666,7 @@
     "Ceripa": {
       "sigla": "CERIPA",
       "nome_comercial": "Ceripa",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "1462/2026",
       "resolucao_postos": "3322/2024",
       "convencional_b": {
@@ -688,7 +688,7 @@
     "Ceris": {
       "sigla": "CERIS",
       "nome_comercial": "Ceris",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3502/2025",
       "resolucao_postos": "3368/2024",
       "convencional_b": {
@@ -710,7 +710,7 @@
     "Cermissões": {
       "sigla": "CERMISSÕES",
       "nome_comercial": "Cermissões",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3495/2025",
       "resolucao_postos": "2278/2017",
       "convencional_b": {
@@ -732,7 +732,7 @@
     "Cermoful": {
       "sigla": "CERMOFUL",
       "nome_comercial": "Cermoful",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3522/2025",
       "resolucao_postos": "3109/2022",
       "convencional_b": {
@@ -754,7 +754,7 @@
     "Cernhe": {
       "sigla": "CERNHE",
       "nome_comercial": "Cernhe",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3503/2025",
       "resolucao_postos": "3361/2024",
       "convencional_b": {
@@ -776,7 +776,7 @@
     "Cerpalo": {
       "sigla": "CERPALO",
       "nome_comercial": "Cerpalo",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3523/2025",
       "resolucao_postos": "2153/2017",
       "convencional_b": {
@@ -798,7 +798,7 @@
     "Cerpro": {
       "sigla": "CERPRO",
       "nome_comercial": "Cerpro",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3457/2025",
       "resolucao_postos": "3330/2024",
       "convencional_b": {
@@ -820,7 +820,7 @@
     "Cersad": {
       "sigla": "CERSAD",
       "nome_comercial": "Cersad",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3524/2025",
       "resolucao_postos": "2488/2018",
       "convencional_b": {
@@ -842,7 +842,7 @@
     "Cersul": {
       "sigla": "CERSUL",
       "nome_comercial": "Cersul",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3525/2025",
       "resolucao_postos": "2141/2016",
       "convencional_b": {
@@ -864,7 +864,7 @@
     "Certaja": {
       "sigla": "CERTAJA",
       "nome_comercial": "Certaja",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3496/2025",
       "resolucao_postos": "2246/2017",
       "convencional_b": {
@@ -886,7 +886,7 @@
     "Certel": {
       "sigla": "CERTEL",
       "nome_comercial": "Certel",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3504/2025",
       "resolucao_postos": "3081/2022",
       "convencional_b": {
@@ -908,7 +908,7 @@
     "Certhil": {
       "sigla": "CERTHIL",
       "nome_comercial": "Certhil",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3497/2025",
       "resolucao_postos": "3085/2022",
       "convencional_b": {
@@ -930,7 +930,7 @@
     "Certrel": {
       "sigla": "CERTREL",
       "nome_comercial": "Certrel",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3526/2025",
       "resolucao_postos": "2328/2017",
       "convencional_b": {
@@ -952,7 +952,7 @@
     "Cervam": {
       "sigla": "CERVAM",
       "nome_comercial": "Cervam",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3527/2025",
       "resolucao_postos": "2493/2018",
       "convencional_b": {
@@ -974,7 +974,7 @@
     "Cetril": {
       "sigla": "CETRIL",
       "nome_comercial": "Cetril",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3553/2025",
       "resolucao_postos": "2164/2016",
       "convencional_b": {
@@ -996,7 +996,7 @@
     "Chesp": {
       "sigla": "CHESP",
       "nome_comercial": "Chesp",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3545/2025",
       "resolucao_postos": "2970/2021",
       "convencional_b": {
@@ -1018,7 +1018,7 @@
     "Cocel": {
       "sigla": "COCEL",
       "nome_comercial": "Cocel",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3476/2025",
       "resolucao_postos": "2887/2021",
       "convencional_b": {
@@ -1040,7 +1040,7 @@
     "Codesam": {
       "sigla": "CODESAM",
       "nome_comercial": "Codesam",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3528/2025",
       "resolucao_postos": "2494/2018",
       "convencional_b": {
@@ -1062,7 +1062,7 @@
     "Coopera": {
       "sigla": "COOPERA",
       "nome_comercial": "Coopera",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3533/2025",
       "resolucao_postos": "2140/2016",
       "convencional_b": {
@@ -1084,7 +1084,7 @@
     "Cooperaliança": {
       "sigla": "COOPERALIANÇ",
       "nome_comercial": "Cooperaliança",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3514/2025",
       "resolucao_postos": "3099/2022",
       "convencional_b": {
@@ -1106,7 +1106,7 @@
     "Coopercocal": {
       "sigla": "COOPERCOCAL",
       "nome_comercial": "Coopercocal",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3534/2025",
       "resolucao_postos": "2465/2018",
       "convencional_b": {
@@ -1128,7 +1128,7 @@
     "Cooperluz": {
       "sigla": "COOPERLUZ",
       "nome_comercial": "Cooperluz",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3498/2025",
       "resolucao_postos": "2279/2017",
       "convencional_b": {
@@ -1150,7 +1150,7 @@
     "Coopermila": {
       "sigla": "COOPERMILA",
       "nome_comercial": "Coopermila",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3535/2025",
       "resolucao_postos": "2150/2016",
       "convencional_b": {
@@ -1172,7 +1172,7 @@
     "Coopernorte": {
       "sigla": "COOPERNORTE",
       "nome_comercial": "Coopernorte",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3561/2025",
       "resolucao_postos": "2516/2019",
       "convencional_b": {
@@ -1194,7 +1194,7 @@
     "Coopersul": {
       "sigla": "COOPERSUL",
       "nome_comercial": "Coopersul",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3562/2025",
       "resolucao_postos": "2515/2019",
       "convencional_b": {
@@ -1216,7 +1216,7 @@
     "Cooperzem": {
       "sigla": "COOPERZEM",
       "nome_comercial": "Cooperzem",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3529/2025",
       "resolucao_postos": "2489/2018",
       "convencional_b": {
@@ -1238,7 +1238,7 @@
     "Coorsel": {
       "sigla": "COORSEL",
       "nome_comercial": "Coorsel",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3530/2025",
       "resolucao_postos": "2145/2016",
       "convencional_b": {
@@ -1260,7 +1260,7 @@
     "Copel-DIS": {
       "sigla": "COPEL-DIS",
       "nome_comercial": "Copel-DIS",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3472/2025",
       "resolucao_postos": "2886/2021",
       "convencional_b": {
@@ -1282,7 +1282,7 @@
     "Coprel": {
       "sigla": "COPREL",
       "nome_comercial": "Coprel",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3499/2025",
       "resolucao_postos": "2280/2017",
       "convencional_b": {
@@ -1304,7 +1304,7 @@
     "Creluz-D": {
       "sigla": "CRELUZ-D",
       "nome_comercial": "Creluz-D",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3505/2025",
       "resolucao_postos": "3083/2022",
       "convencional_b": {
@@ -1326,7 +1326,7 @@
     "Creral": {
       "sigla": "CRERAL",
       "nome_comercial": "Creral",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3500/2025",
       "resolucao_postos": "3084/2022",
       "convencional_b": {
@@ -1348,7 +1348,7 @@
     "DMED": {
       "sigla": "DMED",
       "nome_comercial": "DMED",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3548/2025",
       "resolucao_postos": "2797/2020",
       "convencional_b": {
@@ -1370,7 +1370,7 @@
     "Dcelt": {
       "sigla": "DCELT",
       "nome_comercial": "Dcelt",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3515/2025",
       "resolucao_postos": "2928/2021",
       "convencional_b": {
@@ -1392,7 +1392,7 @@
     "Demei": {
       "sigla": "DEMEI",
       "nome_comercial": "Demei",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3486/2025",
       "resolucao_postos": "3069/2022",
       "convencional_b": {
@@ -1414,7 +1414,7 @@
     "EDP ES": {
       "sigla": "EDP ES",
       "nome_comercial": "EDP ES",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3508/2025",
       "resolucao_postos": "3091/2022",
       "convencional_b": {
@@ -1436,7 +1436,7 @@
     "EDP SP": {
       "sigla": "EDP SP",
       "nome_comercial": "EDP SP",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3541/2025",
       "resolucao_postos": "3278/2023",
       "convencional_b": {
@@ -1458,7 +1458,7 @@
     "EFLJC": {
       "sigla": "EFLJC",
       "nome_comercial": "EFLJC",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3516/2025",
       "resolucao_postos": "2923/2021",
       "convencional_b": {
@@ -1480,7 +1480,7 @@
     "ELFSM": {
       "sigla": "ELFSM",
       "nome_comercial": "ELFSM",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3519/2025",
       "resolucao_postos": "2933/2021",
       "convencional_b": {
@@ -1502,7 +1502,7 @@
     "ESS (agrupada)": {
       "sigla": "ESS (AGRUPAD",
       "nome_comercial": "ESS (agrupada)",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3480/2025",
       "resolucao_postos": "2893/2021",
       "convencional_b": {
@@ -1524,7 +1524,7 @@
     "Eflul": {
       "sigla": "EFLUL",
       "nome_comercial": "Eflul",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3517/2025",
       "resolucao_postos": "2930/2021",
       "convencional_b": {
@@ -1546,7 +1546,7 @@
     "Eletrocar": {
       "sigla": "ELETROCAR",
       "nome_comercial": "Eletrocar",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3487/2025",
       "resolucao_postos": "3070/2022",
       "convencional_b": {
@@ -1568,7 +1568,7 @@
     "Enel CE": {
       "sigla": "ENEL CE",
       "nome_comercial": "Enel CE",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3574/2026",
       "resolucao_postos": "3185/2023",
       "convencional_b": {
@@ -1590,7 +1590,7 @@
     "Enel RJ": {
       "sigla": "ENEL RJ",
       "nome_comercial": "Enel RJ",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3570/2026",
       "resolucao_postos": "3177/2023",
       "convencional_b": {
@@ -1612,7 +1612,7 @@
     "Enel SP": {
       "sigla": "ENEL SP",
       "nome_comercial": "Enel SP",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3477/2025",
       "resolucao_postos": "3215/2023",
       "convencional_b": {
@@ -1634,7 +1634,7 @@
     "Energisa AC": {
       "sigla": "ENERGISA AC",
       "nome_comercial": "Energisa AC",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3556/2025",
       "resolucao_postos": "3300/2023",
       "convencional_b": {
@@ -1656,7 +1656,7 @@
     "Energisa MS": {
       "sigla": "ENERGISA MS",
       "nome_comercial": "Energisa MS",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3582/2026",
       "resolucao_postos": "3181/2023",
       "convencional_b": {
@@ -1678,7 +1678,7 @@
     "Energisa MT": {
       "sigla": "ENERGISA MT",
       "nome_comercial": "Energisa MT",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3581/2026",
       "resolucao_postos": "3182/2023",
       "convencional_b": {
@@ -1700,7 +1700,7 @@
     "Energisa Minas Rio": {
       "sigla": "ENERGISA MIN",
       "nome_comercial": "Energisa Minas Rio",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3471/2025",
       "resolucao_postos": "3210/2023",
       "convencional_b": {
@@ -1722,7 +1722,7 @@
     "Energisa PB": {
       "sigla": "ENERGISA PB",
       "nome_comercial": "Energisa PB",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3518/2025",
       "resolucao_postos": "2929/2021",
       "convencional_b": {
@@ -1744,7 +1744,7 @@
     "Energisa RO": {
       "sigla": "ENERGISA RO",
       "nome_comercial": "Energisa RO",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3560/2025",
       "resolucao_postos": "3301/2023",
       "convencional_b": {
@@ -1766,7 +1766,7 @@
     "Energisa SE": {
       "sigla": "ENERGISA SE",
       "nome_comercial": "Energisa SE",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3575/2026",
       "resolucao_postos": "3184/2023",
       "convencional_b": {
@@ -1788,7 +1788,7 @@
     "Energisa TO": {
       "sigla": "ENERGISA TO",
       "nome_comercial": "Energisa TO",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3479/2025",
       "resolucao_postos": "2720/2020",
       "convencional_b": {
@@ -1807,10 +1807,32 @@
         "nota": "Horários visíveis nos screenshots de debug"
       }
     },
+    "Equatorial AL": {
+      "sigla": "EQUATORIAL A",
+      "nome_comercial": "Equatorial AL",
+      "atualizado": "2026-05-31",
+      "resolucao_tarifas": "3584/2026",
+      "resolucao_postos": "3326/2024",
+      "convencional_b": {
+        "tarifa": 0.851
+      },
+      "branca_b": {
+        "foraponta": 0.687,
+        "intermediario": 1.193,
+        "ponta": 1.89
+      },
+      "horarios_branca": {
+        "ponta": null,
+        "intermediario": null,
+        "foraponta": null,
+        "fonte": "Dashboard Tarifa Branca ANEEL",
+        "nota": "Horários visíveis nos screenshots de debug"
+      }
+    },
     "Equatorial CEA": {
       "sigla": "EQUATORIAL C",
       "nome_comercial": "Equatorial CEA",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "2351/2017",
       "resolucao_postos": null,
       "convencional_b": {
@@ -1832,7 +1854,7 @@
     "Equatorial CEEE": {
       "sigla": "EQUATORIAL C",
       "nome_comercial": "Equatorial CEEE",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3547/2025",
       "resolucao_postos": "2972/2021",
       "convencional_b": {
@@ -1854,7 +1876,7 @@
     "Equatorial GO": {
       "sigla": "EQUATORIAL G",
       "nome_comercial": "Equatorial GO",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3544/2025",
       "resolucao_postos": "3279/2023",
       "convencional_b": {
@@ -1876,7 +1898,7 @@
     "Equatorial MA": {
       "sigla": "EQUATORIAL M",
       "nome_comercial": "Equatorial MA",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3512/2025",
       "resolucao_postos": "2925/2021",
       "convencional_b": {
@@ -1898,7 +1920,7 @@
     "Equatorial PA": {
       "sigla": "EQUATORIAL P",
       "nome_comercial": "Equatorial PA",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3507/2025",
       "resolucao_postos": "3243/2023",
       "convencional_b": {
@@ -1920,7 +1942,7 @@
     "Equatorial PI": {
       "sigla": "EQUATORIAL P",
       "nome_comercial": "Equatorial PI",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3555/2025",
       "resolucao_postos": "3292/2023",
       "convencional_b": {
@@ -1942,7 +1964,7 @@
     "Hidropan": {
       "sigla": "HIDROPAN",
       "nome_comercial": "Hidropan",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3488/2025",
       "resolucao_postos": "3071/2022",
       "convencional_b": {
@@ -1964,7 +1986,7 @@
     "Light": {
       "sigla": "LIGHT",
       "nome_comercial": "Light",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3571/2026",
       "resolucao_postos": "3014/2022",
       "convencional_b": {
@@ -1986,7 +2008,7 @@
     "MuxEnergia": {
       "sigla": "MUXENERGIA",
       "nome_comercial": "MuxEnergia",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3489/2025",
       "resolucao_postos": "3072/2022",
       "convencional_b": {
@@ -2008,7 +2030,7 @@
     "Neoenergia Brasília": {
       "sigla": "NEOENERGIA B",
       "nome_comercial": "Neoenergia Brasília",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3542/2025",
       "resolucao_postos": "2965/2021",
       "convencional_b": {
@@ -2030,7 +2052,7 @@
     "Neoenergia Coelba": {
       "sigla": "NEOENERGIA C",
       "nome_comercial": "Neoenergia Coelba",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3578/2026",
       "resolucao_postos": "3186/2023",
       "convencional_b": {
@@ -2052,7 +2074,7 @@
     "Neoenergia Cosern": {
       "sigla": "NEOENERGIA C",
       "nome_comercial": "Neoenergia Cosern",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3573/2026",
       "resolucao_postos": "3187/2023",
       "convencional_b": {
@@ -2074,7 +2096,7 @@
     "Neoenergia Elektro": {
       "sigla": "NEOENERGIA E",
       "nome_comercial": "Neoenergia Elektro",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3510/2025",
       "resolucao_postos": "3253/2023",
       "convencional_b": {
@@ -2096,7 +2118,7 @@
     "Neoenergia Pernambuco": {
       "sigla": "NEOENERGIA P",
       "nome_comercial": "Neoenergia Pernambuco",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3583/2026",
       "resolucao_postos": "2861/2021",
       "convencional_b": {
@@ -2118,7 +2140,7 @@
     "Nova Palma": {
       "sigla": "NOVA PALMA",
       "nome_comercial": "Nova Palma",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3490/2025",
       "resolucao_postos": "3073/2022",
       "convencional_b": {
@@ -2140,7 +2162,7 @@
     "Pacto Energia": {
       "sigla": "PACTO ENERGI",
       "nome_comercial": "Pacto Energia",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3509/2025",
       "resolucao_postos": "2924/2021",
       "convencional_b": {
@@ -2162,7 +2184,7 @@
     "RGE (agrupada)": {
       "sigla": "RGE (AGRUPAD",
       "nome_comercial": "RGE (agrupada)",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3473/2025",
       "resolucao_postos": "3206/2023",
       "convencional_b": {
@@ -2184,7 +2206,7 @@
     "Roraima Energia": {
       "sigla": "RORAIMA ENER",
       "nome_comercial": "Roraima Energia",
-      "atualizado": "2026-05-24",
+      "atualizado": "2026-05-31",
       "resolucao_tarifas": "3565/2026",
       "resolucao_postos": "3309/2024",
       "convencional_b": {
@@ -2194,28 +2216,6 @@
         "foraponta": 0.675,
         "intermediario": 0.946,
         "ponta": 1.415
-      },
-      "horarios_branca": {
-        "ponta": null,
-        "intermediario": null,
-        "foraponta": null,
-        "fonte": "Dashboard Tarifa Branca ANEEL",
-        "nota": "Horários visíveis nos screenshots de debug"
-      }
-    },
-    "Sulgipe": {
-      "sigla": "SULGIPE",
-      "nome_comercial": "Sulgipe",
-      "atualizado": "2026-05-24",
-      "resolucao_tarifas": "3453/2025",
-      "resolucao_postos": "3035/2022",
-      "convencional_b": {
-        "tarifa": 0.679
-      },
-      "branca_b": {
-        "foraponta": 0.537,
-        "intermediario": 0.948,
-        "ponta": 1.494
       },
       "horarios_branca": {
         "ponta": null,
